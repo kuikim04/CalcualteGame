@@ -535,7 +535,7 @@ MonoBehaviour:
   timeCountDownStartObj: {fileID: 777988585}
   timeBonusObj: {fileID: 767220450}
   countDownStart: 3
-  timeGame: 15
+  timeGame: 180
   warningTime: 10
   resultAnim: {fileID: 128112355}
   resultUI: {fileID: 128112356}

@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      png.monster-90_0: -8363542419487405137
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -3616,7 +3616,7 @@ MonoBehaviour:
   mainMixer: {fileID: 24100000, guid: 17bf42b2f9f88c643a9640308a846785, type: 2}
   musicAudio: {fileID: 734950089}
   effectAudio: {fileID: 1629441096}
-  clickSound: {fileID: 8300000, guid: 26b4ccc679daa3847ab1853c1a1ffa15, type: 3}
+  clickSound: {fileID: 8300000, guid: 808b1c1bb474b2e4e81f482b61c5af1f, type: 3}
   resultSound: {fileID: 8300000, guid: f9161582126b2034d8dbcbc0ad2a1dc4, type: 3}
   newBestScoreSound: {fileID: 8300000, guid: 3a6cd568bbc5b4146b5763b9bf28ba85, type: 3}
   buySound: {fileID: 8300000, guid: 82ee3d931821a4049890e1e3698f3c6f, type: 3}

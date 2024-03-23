@@ -9,6 +9,12 @@ public class DataCenter : MonoBehaviour
     [SerializeField] private PlayerData data;
     private void Awake()
     {
+        //Set screen size for Standalone
+#if UNITY_STANDALONE
+        Screen.SetResolution(564, 960, false);
+        Screen.fullScreen = false;
+#endif
+
         if (Instance != null && Instance != this)
         {
             Destroy(gameObject);

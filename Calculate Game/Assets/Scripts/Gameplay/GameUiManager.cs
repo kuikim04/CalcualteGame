@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class GameUiManager : MonoBehaviour
 {
+
     [SerializeField] private OpenCloseAnimation settingAnim;
     [SerializeField] private Button openSettingButton;
     [SerializeField] private Button closeSettingButton;

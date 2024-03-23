@@ -53,6 +53,7 @@ public class UiManager : MonoBehaviour
 
     private void Start()
     {
+
         DataCenter.Instance.LoadAllData();
 
         UpdateCoinText();
