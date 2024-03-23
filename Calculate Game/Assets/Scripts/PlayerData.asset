@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Coin: 0
   BestScore: 0
-  Item1: 0
-  Item2: 0
-  Item3: 0
-  Item4: 0
+  Item1: 5
+  Item2: 5
+  Item3: 5
+  Item4: 5
